@@ -1,5 +1,5 @@
 """
-Este módulo contiene las funciones para el procesamiento de datos del TP2.
+Este módulo contiene las funciones para el procesamiento de datos del TP3
 Autor: Lorena Pantoja
 Fecha: 
 """
@@ -60,4 +60,3 @@ print(f'Número total de pedidos realizados: {total_orders}')
 # FINAL DEL CODIGO
 
 
-git remote add origin https://github.com/usuario/nombre-del-repositorio.git
